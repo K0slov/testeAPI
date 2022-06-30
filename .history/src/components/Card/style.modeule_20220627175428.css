@@ -1,0 +1,10 @@
+.card {
+    width: 120px;
+    heigth: 60px;
+    display: flex;
+    border: 1px solid;
+    border-color: red;
+    background: red;
+    border-radus: 4px;
+    margin: 8rem;
+}

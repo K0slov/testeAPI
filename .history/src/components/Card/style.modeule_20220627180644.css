@@ -1,0 +1,9 @@
+.card {
+    width: 80rem;
+    heigth: 40rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #004d8b;
+    align-items: center;
+    margin: 4rem;
+}

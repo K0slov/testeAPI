@@ -1,0 +1,15 @@
+.group {
+    margin: 1rem 3rem;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+}
+.double {
+    margin: 1rem;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}

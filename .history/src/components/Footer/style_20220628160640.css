@@ -1,0 +1,33 @@
+footer {
+    width: 100%;
+    padding: 1rem 0rem;
+    background-color: #004d8b;
+    display: flex;
+    color: #fd8402;
+    bottom: 0;
+    align-items: self-end;
+    justify-content: flex-start;
+    border-top: 1px solid;
+    border-color: #023761;
+    position: footer;
+}
+img {
+    width: 12rem;
+    height: 2rem;
+    background: #0e86e1;
+    border-radius: 5rem;
+    padding: 0.5rem;
+}
+.adress {
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 1.5rem;
+}
+.adressLink {
+    text-decoration: none;
+    color: #fd8402;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}

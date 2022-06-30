@@ -1,0 +1,32 @@
+footer {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    background-color: #004d8b;
+    display: flex;
+    align-items: center;
+    color: #fd8402;
+    bottom: 0;
+    z-index: 100%;
+    overflow: hidden;
+    position: relative;
+}
+img {
+    width: 12rem;
+    height: 2rem;
+    background: #0e86e1;
+    border-radius: 5rem;
+    padding: 0.5rem;
+}
+.adress {
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 1.5rem;
+}
+.adressLink {
+    text-decoration: none;
+    color: #fd8402;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}

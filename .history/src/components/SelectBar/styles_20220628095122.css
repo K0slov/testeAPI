@@ -1,0 +1,32 @@
+.box {
+    width: 10rem;
+    height: 5rem;
+    display: flex;
+    flex-direction: column;
+    background: #0e86e1;
+    border: 1px solid;
+    border-color: #023761;
+    border-radius: 0.5rem;
+}
+.select {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    background: transparent;
+    align-items: center;
+    border: 1px;
+    border-color: #023761;
+}
+.a  {
+    text-decoration: none;
+    color: #fd8402;
+    font-weight: bold;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background: transparent;
+    align-items: center;
+}

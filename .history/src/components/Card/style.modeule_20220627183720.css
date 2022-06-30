@@ -1,0 +1,22 @@
+.card {
+    width: 33rem;
+    height: 18rem;
+    display: flex;
+    border: 2px solid;
+    border-radius: 1rem;
+    border-color: red;
+    flex-direction: column;
+    background-color: gray;
+    align-items: center;
+    margin: 4rem;
+    box-sizing: border-box;
+}
+.titulo {
+    border-bottom: 1px solid;
+    border-color: white;
+    display: flex;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    align-items: center;
+}

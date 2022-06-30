@@ -1,0 +1,14 @@
+header{
+    padding: 1rem;
+    background-color: #004d8b;
+    display: flex;
+    align-itens: center;
+    color: #fd8402;
+}
+
+img{
+    width: 16rem;
+    height: 3rem;
+    background: white;
+    border-radius: 50%
+}

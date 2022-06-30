@@ -1,0 +1,38 @@
+.card {
+    width: 33rem;
+    height: 18rem;
+    display: flex;
+    border: 2px solid;
+    border-radius: 1rem;
+    border-color: white;
+    flex-direction: column;
+    background-color: gray;
+    align-items: center;
+    margin: 4rem;
+    box-sizing: border-box;
+}
+.titulo {
+    border-bottom: 2px solid;
+    border-color: white;
+        display: flex;
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+        align-items: center;
+        justify-content: center;
+    }
+.conteudo {
+    padding: 1rem 3rem;
+    display: flex;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    max-width: 100ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    //white-space: nowrap;
+}

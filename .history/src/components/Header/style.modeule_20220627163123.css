@@ -1,0 +1,56 @@
+header{
+    padding: 0.5rem 1rem;
+    background-color: #004d8b;
+    display: flex;
+    align-items: center;
+    color: #fd8402;
+    justify-content: space-between;
+}
+img{
+    width: 12rem;
+    height: 2rem;
+    background: #0e86e1;
+    border-radius: 5rem;
+    padding: 0.5rem;
+}
+.wpp {
+    width: auto;
+    height: 2rem;
+    display: flex;
+    flex-direction: row;
+    background: #0e86e1;
+    border-radius: 5rem;
+    padding: 0.5rem;
+    align-items: center;
+    justify-content: flex-start;
+}
+.number {
+    margin-left: 0.2rem;
+    font-size: 14px;
+}
+.wppLink {
+    text-decoration: none;
+    color: #fd8402;
+    font-weight: bold;
+
+}
+.wppLink:hover {
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    color: #fff;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-item {
+    margin: 0rem 1rem;
+    color: #fd8402;
+    text-decoration: none;
+}
+.icon {
+    background: white;
+    border-radius: 50%;
+}

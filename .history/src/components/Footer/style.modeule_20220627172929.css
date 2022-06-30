@@ -1,0 +1,17 @@
+footer {
+    weight: 100%;
+    padding: 0.5rem 1rem;
+    background-color: #004d8b;
+    display: flex;
+    align-items: center;
+    color: #fd8402;
+    justify-content: space-between;
+    position: fixed;
+}
+img {
+    width: 12rem;
+    height: 2rem;
+    background: #0e86e1;
+    border-radius: 5rem;
+    padding: 0.5rem;
+}

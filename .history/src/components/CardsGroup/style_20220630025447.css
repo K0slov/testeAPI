@@ -1,0 +1,19 @@
+.group {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+.double {
+    margin: 0.1rem;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+.ul {
+    display: grid;
+    flex-direction: row;
+    padding: 0;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

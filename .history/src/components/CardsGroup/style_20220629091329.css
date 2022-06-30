@@ -1,0 +1,22 @@
+.group {
+    padding: 1rem;
+    margin: 2rem 3rem;
+    width: auto;
+    height: auto;
+    flex-direction: column;
+    margin-left: 5.5rem;
+    display: grid;  
+    grid-template-columns: repeat(4, minmax(auto-fit, 1fr));
+    grid-template-areas: "card card card"
+                         "card card card";
+  
+    grid-gap: 40px;
+    margin: 0 3rem 0;
+}
+.double {
+    margin: 0.1rem;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,28 @@
+header{
+    padding: 0.5rem 1rem;
+    background-color: #004d8b;
+    display: flex;
+    align-items: center;
+    color: #fd8402;
+    justify-content: space-between;
+}
+img{
+    width: 12rem;
+    height: 2rem;
+    background: white;
+    border-radius: 4rem;
+    padding: 0.5rem;
+}
+.wpp {
+    width: auto;
+    height: 2rem;
+    flex-direction: row;
+    background: white;
+    border-radius: 4rem;
+    padding: 0.5rem;
+    align-items: center;
+    justify-content: flex-start;
+}
+span {
+    margin: 0;
+}

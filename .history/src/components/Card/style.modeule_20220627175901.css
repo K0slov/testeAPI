@@ -1,0 +1,8 @@
+.card {
+    width: 40rem;
+    heigth: 20rem;
+    display: flex;
+    background-color: #004d8b;
+    align-items: center;
+    margin: 4rem;
+}
